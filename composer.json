@@ -2,7 +2,6 @@
     "name": "obrainwave/auth-fusion",
     "description": "Unified authentication package for Laravel supporting Sanctum, JWT, and Passport",
     "type": "library",
-    "version": "1.0.0",
     "keywords": [
         "laravel",
         "authentication",
@@ -15,7 +14,7 @@
     "authors": [
         {
             "name": "Akeem Olaiwola Salau",
-            "email": "olaiwola.salau@gmail.com"
+            "email": "olaiwolaakeem@gmail.com"
         }
     ],
     "require": {
@@ -55,6 +54,9 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "support": {
+        "issues": "https://github.com/Obrainwave/auth-fusion/issues",
+        "source": "https://github.com/Obrainwave/auth-fusion"
+    }
 }
-
